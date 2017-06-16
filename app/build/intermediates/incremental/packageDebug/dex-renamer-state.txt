@@ -1,0 +1,7 @@
+#Fri Jun 16 21:03:45 IST 2017
+base.0=C\:\\Users\\alfra\\AndroidStudioProjects\\Andoid Apps\\ChatBook\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d653221138a6a0699224e76a3ea0ff8923f06050
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\alfra\\AndroidStudioProjects\\Andoid Apps\\ChatBook\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e4a4e6a58959a3d3244ff52fda4351e504500216\\classes.dex
+base.1=C\:\\Users\\alfra\\AndroidStudioProjects\\Andoid Apps\\ChatBook\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e4a4e6a58959a3d3244ff52fda4351e504500216
+file.0=C\:\\Users\\alfra\\AndroidStudioProjects\\Andoid Apps\\ChatBook\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d653221138a6a0699224e76a3ea0ff8923f06050\\classes.dex

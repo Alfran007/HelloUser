@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfra\AndroidStudioProjects\Andoid Apps\ChatBook\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b3055c2f9152b8e3a1f7e17413f222e16f25e7b1">
+        <dex dex="C:\Users\alfra\AndroidStudioProjects\Andoid Apps\ChatBook\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d653221138a6a0699224e76a3ea0ff8923f06050\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfra\AndroidStudioProjects\Andoid Apps\ChatBook\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\alfra\AndroidStudioProjects\Andoid Apps\ChatBook\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e4a4e6a58959a3d3244ff52fda4351e504500216\classes.dex" />
+    </item>
+
+</items>
