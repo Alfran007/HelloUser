@@ -1,8 +1,10 @@
+
 package com.eternalapps.hello.hellouser;
 
 /**
  * Created by prithvi on 13-06-2017.
  */
+
 
 import android.content.Context;
 import android.support.annotation.NonNull;
@@ -14,6 +16,10 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import java.util.List;
+
+/**
+ * Created by alfran on 6/16/2017.
+ */
 
 class MessageAdapter extends ArrayAdapter<MessageObject> {
 
@@ -28,11 +34,12 @@ class MessageAdapter extends ArrayAdapter<MessageObject> {
         View messageView = messageInflator.inflate(R.layout.message_row,parent,false);
 
         MessageObject SingleMessage = getItem(position);
-        TextView message = (TextView) messageView.findViewById(R.id.editText2);
-        ImageView image = (ImageView) messageView.findViewById(R.id.imageView2);
+        TextView message = (TextView) messageView.findViewById(R.id.messengerTextView);
+        ImageView image = (ImageView) messageView.findViewById(R.id.messageImageView);
 
         message.setText(SingleMessage.getText());
-        image.setImageResource(R.drawable.profile);
+        // image.setImageResource(R.drawable.);
         return messageView;
     }
 }
+

@@ -1,9 +1,5 @@
 package com.eternalapps.hello.hellouser;
 
-/**
- * Created by prithvi on 12-06-2017.
- */
-
 public class MessageObject {
 
     private String text;
